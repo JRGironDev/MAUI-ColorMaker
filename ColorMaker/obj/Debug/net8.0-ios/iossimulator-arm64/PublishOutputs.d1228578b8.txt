@@ -34,6 +34,8 @@
 /Users/josequinonez/Codes/ColorMaker/ColorMaker/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../ColorMaker.app/zh-Hans/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/Codes/ColorMaker/ColorMaker/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../ColorMaker.app/zh-Hant/Microsoft.Maui.Controls.resources.dll
 /Users/josequinonez/Codes/ColorMaker/ColorMaker/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../ColorMaker.app/runtimeconfig.bin
+/Users/josequinonez/Codes/ColorMaker/ColorMaker/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../ColorMaker.app/CommunityToolkit.Maui.dll
+/Users/josequinonez/Codes/ColorMaker/ColorMaker/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../ColorMaker.app/CommunityToolkit.Maui.Core.dll
 /Users/josequinonez/Codes/ColorMaker/ColorMaker/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../ColorMaker.app/Microsoft.Extensions.Configuration.dll
 /Users/josequinonez/Codes/ColorMaker/ColorMaker/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../ColorMaker.app/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/josequinonez/Codes/ColorMaker/ColorMaker/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../ColorMaker.app/Microsoft.Extensions.DependencyInjection.dll
