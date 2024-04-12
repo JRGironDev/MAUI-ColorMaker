@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColorMaker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+52157a559bb462b63dcb1b918ce76eebc046e291")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+288ca443c4333bb05d0df0e4edfe69803464b23f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColorMaker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColorMaker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

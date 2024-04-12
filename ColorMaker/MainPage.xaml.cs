@@ -20,6 +20,18 @@ public partial class MainPage : ContentPage
 		SetColor(color);
 	}
 
+	private void btnRandom_Clicked(object sender, EventArgs e)
+	{
+		var random = new Random();
+
+		var color = Color.FromRgb(
+			random.Next(0, 256),
+			random.Next(0, 256),
+			random.Next(0, 256));
+
+		SetColor(color);
+	}
+
 	private void SetColor(Color color)
 	{
 		btnRandom.BackgroundColor = color;
