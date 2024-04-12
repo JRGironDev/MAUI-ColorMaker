@@ -8,4 +8,37 @@
         <Color x:Key="Secondary">#775752</Color>
         <Color x:Key="Terciary">#705c2e</Color>  
     </ContentPage.Resources>
+
+    <Grid x:Name="Container" BackgroundColor="Black">
+        <Frame Margin="10,0,10,0" VerticalOptions="Center">
+            <VerticalStackLayout
+                Spacing="15" VerticalOptions="Center">
+                <Label 
+                    FontAttributes="Bold"
+                    Text="Color Maker" 
+                    FontSize="Large" 
+                    HorizontalOptions="Center"/>
+                <Label Text="Red Value:"/>
+                <Slider 
+                    x:Name="sldRed" 
+                    ThumbColor="{StaticResource Primary}"
+                    MaximumTrackColor="{StaticResource Terciary}"
+                    MinimumTrackColor="{StaticResource Secondary}" />
+
+                <Label Text="Green Value:"/>
+                <Slider 
+                    x:Name="sldGreen" 
+                    ThumbColor="{StaticResource Primary}"
+                    MaximumTrackColor="{StaticResource Terciary}"
+                    MinimumTrackColor="{StaticResource Secondary}" />
+
+                <Label Text="Blue Value:"/>
+                <Slider 
+                    x:Name="sldBlue" 
+                    ThumbColor="{StaticResource Primary}"
+                    MaximumTrackColor="{StaticResource Terciary}"
+                    MinimumTrackColor="{StaticResource Secondary}" />
+            </VerticalStackLayout>
+        </Frame>
+    </Grid>
 </ContentPage>

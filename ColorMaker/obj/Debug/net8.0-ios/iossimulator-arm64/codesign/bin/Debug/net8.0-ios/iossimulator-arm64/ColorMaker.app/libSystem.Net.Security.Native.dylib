@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/josequinonez/Codes/ColorMaker/ColorMaker/bin/Debug/net8.0-ios/iossimulator-arm64/ColorMaker.app/libSystem.Net.Security.Native.dylib
